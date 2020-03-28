@@ -1,2 +1,2 @@
-# Tutorial-gitgub
+# Tutorial-github
 Repo belajar github
